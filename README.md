@@ -13,7 +13,7 @@ The dataset includes the following health attributes:
 | 🩸 **BP** | Blood Pressure level (categorical: High, Normal, Low) |
 | 🍽 **Cholesterol** | Cholesterol level (categorical: High, Normal) |
 | ⚡ **Na_to_K** | Sodium-Potassium ratio in blood |
-| 💊 **Drug** | Prescribed drug type (target variable) |
+| 💊 **Drug** | Prescribed drug type (target variable) | 
 
 ## 🛠 Dependencies
 Install the required libraries before running the project:
